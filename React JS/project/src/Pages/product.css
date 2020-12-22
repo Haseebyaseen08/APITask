@@ -1,0 +1,237 @@
+.header2{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.header2 p{
+    display: inline;
+    text-align: center;
+    font-size: 1.5rem;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+}
+
+.product1 h1{
+    margin-left: 10rem;
+    margin-right: 10rem;
+    margin-top: 3rem;
+    background-image: linear-gradient(
+        rgba(0, 0, 0, 0.5),
+        rgba(0, 0, 0, 0.5)
+      ),url('./i1.jpg');
+    text-align: center;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+
+.product1 input[type='submit']{
+        padding-top: 1rem;
+        height:2rem;
+        background-color:white;
+        color:black;
+        border:none;
+        padding-left: 1rem;
+        padding-right: 1rem;
+        margin-left: 60rem;
+        padding-left: 10rem;
+        box-shadow: 0 1rem 0.7rem 0 rgba(0,0,0,0.24), 0 1.7rem 5rem 0 rgba(0,0,0,0.19);
+    }
+.product2 h1{
+    margin-left: 10rem;
+    margin-right: 10rem;
+        margin-top: 3rem;
+        background-image: linear-gradient(
+            rgba(0, 0, 0, 0.5),
+            rgba(0, 0, 0, 0.5)
+          ),url('./i2.jpg');
+        text-align: center;
+        color: white;
+        font-family: 'Times New Roman', Times, serif;
+        padding-top: 5rem;
+        padding-bottom: 5rem;
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+    }
+    
+    
+.product2 input[type='submit']{
+            padding-top: 1rem;
+            height:2rem;
+            background-color:white;
+            color:black;
+            border:none;
+            padding-left: 1rem;
+            padding-right: 1rem;
+            margin-left: 50rem;
+            padding-left: 10rem;
+            box-shadow: 0 1rem 0.7rem 0 rgba(0,0,0,0.24), 0 1.7rem 5rem 0 rgba(0,0,0,0.19);
+        }
+
+.product3 h1{
+    margin-left: 10rem;
+    margin-right: 10rem;
+            margin-top: 3rem;
+            background-image: linear-gradient(
+                rgba(0, 0, 0, 0.7),
+                rgba(0, 0, 0, 0.7)
+              ),url('./i3.jpg');
+            text-align: center;
+            color: white;
+            font-family: 'Times New Roman', Times, serif;
+            padding-top: 5rem;
+            padding-bottom: 5rem;
+            background-repeat: no-repeat;
+            background-position: center;
+            background-size: cover;
+        }
+        
+        
+.product3 input[type='submit']{
+                padding-top: 1rem;
+                height:2rem;
+                background-color:white;
+                color:black;
+                border:none;
+                padding-left: 1rem;
+                padding-right: 1rem;
+                margin-left: 40rem;
+                padding-left: 10rem;
+                box-shadow: 0 1rem 0.7rem 0 rgba(0,0,0,0.24), 0 1.7rem 5rem 0 rgba(0,0,0,0.19);
+            }
+.product4 h1{
+    margin-left: 10rem;
+    margin-right: 10rem;
+                margin-top: 3rem;
+                background-image: linear-gradient(
+                    rgba(0, 0, 0, 0.6),
+                    rgba(0, 0, 0, 0.6)
+                  ),url('./i4.jpg');
+                text-align: center;
+                color: white;
+                font-family: 'Times New Roman', Times, serif;
+                padding-top: 5rem;
+                padding-bottom: 5rem;
+                background-repeat: no-repeat;
+                background-position: center;
+                background-size: cover;
+            }
+            
+            
+.product4 input[type='submit']{
+                    padding-top: 1rem;
+                    height:2rem;
+                    background-color:white;
+                    color:black;
+                    border:none;
+                    padding-left: 1rem;
+                    padding-right: 1rem;
+                    margin-left: 30rem;
+                    padding-left: 10rem;
+                    box-shadow: 0 1rem 0.7rem 0 rgba(0,0,0,0.24), 0 1.7rem 5rem 0 rgba(0,0,0,0.19);
+                }
+
+.product5 h1{
+    margin-left: 10rem;
+    margin-right: 10rem;
+    margin-top: 3rem;
+    background-image: linear-gradient(
+        rgba(0, 0, 0, 0.5),
+        rgba(0, 0, 0, 0.5)
+    ),url('./i5.jpg');
+    text-align: center;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+                
+                
+.product5 input[type='submit']{
+    padding-top: 1rem;
+    height:2rem;
+    background-color:white;
+    color:black;
+    border:none;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    margin-left: 20rem;
+    padding-left: 10rem;
+    box-shadow: 0 1rem 0.7rem 0 rgba(0,0,0,0.24), 0 1.7rem 5rem 0 rgba(0,0,0,0.19);
+}
+
+.product6 h1{
+    margin-left: 10rem;
+    margin-right: 10rem;
+    margin-top: 3rem;
+    background-image: linear-gradient(
+        rgba(0, 0, 0, 0.5),
+        rgba(0, 0, 0, 0.5)
+      ),url('./i6.jpg');
+    text-align: center;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+
+.product6 input[type='submit']{
+        padding-top: 1rem;
+        height:2rem;
+        background-color:white;
+        color:black;
+        border:none;
+        padding-left: 1rem;
+        padding-right: 1rem;
+        margin-left: 10rem;
+        padding-left: 10rem;
+        box-shadow: 0 1rem 0.7rem 0 rgba(0,0,0,0.24), 0 1.7rem 5rem 0 rgba(0,0,0,0.19);
+    }
+
+.product1 input:hover{
+    background-color: black;
+    color: white;
+}
+.product2 input:hover{
+    background-color: black;
+    color: white;
+}
+.product3 input:hover{
+    background-color: black;
+    color: white;
+}
+.product4 input:hover{
+    background-color: black;
+    color: white;
+}
+.product5 input:hover{
+    background-color: black;
+    color: white;
+}
+.product6 input:hover{
+    background-color: black;
+    color: white;
+}
+            
+.footer3{
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 10rem;
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding-top: 1rem;
+}
+    
